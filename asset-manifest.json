@@ -1,13 +1,13 @@
 {
-  "main.js": "/react-auth-app/static/js/main.7891856e.chunk.js",
-  "main.js.map": "/react-auth-app/static/js/main.7891856e.chunk.js.map",
+  "main.js": "/react-auth-app/static/js/main.97fdf785.chunk.js",
+  "main.js.map": "/react-auth-app/static/js/main.97fdf785.chunk.js.map",
   "static/css/1.69e11098.chunk.css": "/react-auth-app/static/css/1.69e11098.chunk.css",
-  "static/js/1.ff74199c.chunk.js": "/react-auth-app/static/js/1.ff74199c.chunk.js",
-  "static/js/1.ff74199c.chunk.js.map": "/react-auth-app/static/js/1.ff74199c.chunk.js.map",
+  "static/js/1.86c4b05f.chunk.js": "/react-auth-app/static/js/1.86c4b05f.chunk.js",
+  "static/js/1.86c4b05f.chunk.js.map": "/react-auth-app/static/js/1.86c4b05f.chunk.js.map",
   "runtime~main.js": "/react-auth-app/static/js/runtime~main.3f9059b6.js",
   "runtime~main.js.map": "/react-auth-app/static/js/runtime~main.3f9059b6.js.map",
   "static/css/1.69e11098.chunk.css.map": "/react-auth-app/static/css/1.69e11098.chunk.css.map",
   "index.html": "/react-auth-app/index.html",
-  "precache-manifest.bf95beb5aa787a91299f2f62e53b8a49.js": "/react-auth-app/precache-manifest.bf95beb5aa787a91299f2f62e53b8a49.js",
+  "precache-manifest.fc8ffff8e8bfa1f7cecfaba57396688d.js": "/react-auth-app/precache-manifest.fc8ffff8e8bfa1f7cecfaba57396688d.js",
   "service-worker.js": "/react-auth-app/service-worker.js"
 }
